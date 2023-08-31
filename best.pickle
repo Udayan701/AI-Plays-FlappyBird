@@ -1,0 +1,12 @@
+€cneat.nn.feed_forward
+FeedForwardNetwork
+q )q}q(X
+   input_nodesq]q(JÿÿÿÿJþÿÿÿJýÿÿÿeX   output_nodesq]qK aX
+   node_evalsq ]q(K cneat.activations
+tanh_activation
+q	cneat.aggregations
+sum_aggregation
+q
+G¿òÞ“eºÉRG?ð      ]q
+(JýÿÿÿG¿èÁÀkhV†qJþÿÿÿG?ÖçÓ+Kò±†q
+etqaX   valuesq}q(JÿÿÿÿG@~@     JþÿÿÿG@Y@     JýÿÿÿG@XÀ     K G¿ð      uub.
